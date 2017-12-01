@@ -1,0 +1,8 @@
+.DS_Store
+*.csv
+*.json
+Credentials.php
+DemoJSONFeeds
+*.command
+.project
+BillboardConfig.ini

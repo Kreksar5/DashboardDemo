@@ -1,0 +1,124 @@
+centos-switch.nagios.local returned to normal at        11-10-2017 12:01:36pm
+linuxsnmp-switch.nagios.local returned to normal at        11-10-2017 12:01:37pm
+rhel-switch.nagios.local returned to normal at        11-10-2017 12:01:37pm
+switch27.nagios.local returned to normal at        11-10-2017 12:01:37pm
+windows-switch.nagios.local returned to normal at        11-10-2017 12:01:37pm
+mssql1.nagios.local  went down at                 11-10-2017 12:01:37pm
+mssql2.nagios.local  went down at                 11-10-2017 12:01:38pm
+mssql3.nagios.local  went down at                 11-10-2017 12:01:38pm
+mysql1.nagios.local  returned to normal at        11-10-2017 12:01:38pm
+mysql2.nagios.local  returned to normal at        11-10-2017 12:01:38pm
+mysql3.nagios.local  returned to normal at        11-10-2017 12:01:38pm
+centos1.nagios.local returned to normal at        11-10-2017 12:01:39pm
+centos2.nagios.local returned to normal at        11-10-2017 12:01:39pm
+fedora1.nagios.local returned to normal at        11-10-2017 12:01:39pm
+linux-snmp1.nagios.local returned to normal at        11-10-2017 12:01:39pm
+rhel1.nagios.local   returned to normal at        11-10-2017 12:01:39pm
+Firewall             returned to normal at        11-10-2017 12:01:40pm
+NOAA                 returned to normal at        11-10-2017 12:01:40pm
+www.acme.com         returned to normal at        11-10-2017 12:01:40pm
+www.cnn.com          returned to normal at        11-10-2017 12:01:41pm
+www.nagios.com       returned to normal at        11-10-2017 12:01:57pm
+www.nagios.org       returned to normal at        11-10-2017 12:01:57pm
+www.twitter.com      returned to normal at        11-10-2017 12:01:57pm
+centos-switch.nagios.local returned to normal at        11-10-2017 12:02:21pm
+linuxsnmp-switch.nagios.local returned to normal at        11-10-2017 12:02:22pm
+rhel-switch.nagios.local returned to normal at        11-10-2017 12:02:22pm
+switch27.nagios.local returned to normal at        11-10-2017 12:02:22pm
+windows-switch.nagios.local returned to normal at        11-10-2017 12:02:22pm
+mssql1.nagios.local  went down at                 11-10-2017 12:02:22pm
+mssql2.nagios.local  went down at                 11-10-2017 12:02:23pm
+mssql3.nagios.local  went down at                 11-10-2017 12:02:23pm
+mysql1.nagios.local  returned to normal at        11-10-2017 12:02:23pm
+mysql2.nagios.local  returned to normal at        11-10-2017 12:02:23pm
+mysql3.nagios.local  returned to normal at        11-10-2017 12:02:23pm
+centos1.nagios.local returned to normal at        11-10-2017 12:02:24pm
+centos2.nagios.local returned to normal at        11-10-2017 12:02:24pm
+fedora1.nagios.local returned to normal at        11-10-2017 12:02:24pm
+linux-snmp1.nagios.local returned to normal at        11-10-2017 12:02:24pm
+rhel1.nagios.local   returned to normal at        11-10-2017 12:02:24pm
+Firewall             returned to normal at        11-10-2017 12:02:25pm
+NOAA                 returned to normal at        11-10-2017 12:02:25pm
+www.acme.com         returned to normal at        11-10-2017 12:02:25pm
+www.cnn.com          returned to normal at        11-10-2017 12:02:26pm
+www.nagios.com       returned to normal at        11-10-2017 12:02:26pm
+www.nagios.org       returned to normal at        11-10-2017 12:02:26pm
+www.twitter.com      returned to normal at        11-10-2017 12:02:27pm
+centos1.nagios.local returned to normal at        12-01-2017 11:01:59am
+centos2.nagios.local returned to normal at        12-01-2017 11:01:59am
+fedora1.nagios.local returned to normal at        12-01-2017 11:02:00am
+linux-snmp1.nagios.local returned to normal at        12-01-2017 11:02:00am
+rhel1.nagios.local   returned to normal at        12-01-2017 11:02:00am
+Firewall             returned to normal at        12-01-2017 11:02:01am
+NOAA                 returned to normal at        12-01-2017 11:02:01am
+www.acme.com         returned to normal at        12-01-2017 11:02:01am
+www.cnn.com          returned to normal at        12-01-2017 11:02:03am
+www.nagios.com       returned to normal at        12-01-2017 11:02:03am
+www.nagios.org       returned to normal at        12-01-2017 11:02:03am
+www.twitter.com      returned to normal at        12-01-2017 11:02:03am
+centos-switch.nagios.local returned to normal at        12-01-2017 11:02:27am
+linuxsnmp-switch.nagios.local returned to normal at        12-01-2017 11:02:27am
+rhel-switch.nagios.local returned to normal at        12-01-2017 11:02:28am
+switch27.nagios.local returned to normal at        12-01-2017 11:02:28am
+windows-switch.nagios.local returned to normal at        12-01-2017 11:02:28am
+mssql1.nagios.local  went down at                 12-01-2017 11:02:28am
+mssql2.nagios.local  went down at                 12-01-2017 11:02:28am
+mssql3.nagios.local  went down at                 12-01-2017 11:02:28am
+mysql1.nagios.local  returned to normal at        12-01-2017 11:02:28am
+mysql2.nagios.local  returned to normal at        12-01-2017 11:02:29am
+mysql3.nagios.local  returned to normal at        12-01-2017 11:02:29am
+centos1.nagios.local returned to normal at        12-01-2017 11:02:29am
+centos2.nagios.local returned to normal at        12-01-2017 11:02:29am
+fedora1.nagios.local returned to normal at        12-01-2017 11:02:29am
+linux-snmp1.nagios.local returned to normal at        12-01-2017 11:02:29am
+rhel1.nagios.local   returned to normal at        12-01-2017 11:02:30am
+Firewall             returned to normal at        12-01-2017 11:02:30am
+NOAA                 returned to normal at        12-01-2017 11:02:31am
+www.acme.com         returned to normal at        12-01-2017 11:02:31am
+www.cnn.com          returned to normal at        12-01-2017 11:02:31am
+www.nagios.com       returned to normal at        12-01-2017 11:02:31am
+www.nagios.org       returned to normal at        12-01-2017 11:02:32am
+www.twitter.com      returned to normal at        12-01-2017 11:02:32am
+www.nagios.com       returned to normal at        12-01-2017 11:31:31am
+www.nagios.org       returned to normal at        12-01-2017 11:31:31am
+www.twitter.com      returned to normal at        12-01-2017 11:31:31am
+mssql2.nagios.local  went down at                 12-01-2017 01:01:57pm
+mssql3.nagios.local  went down at                 12-01-2017 01:01:57pm
+mysql1.nagios.local  returned to normal at        12-01-2017 01:01:57pm
+mysql2.nagios.local  returned to normal at        12-01-2017 01:01:57pm
+mssql2.nagios.local  went down at                 12-01-2017 01:01:57pm
+mysql3.nagios.local  returned to normal at        12-01-2017 01:01:57pm
+mssql3.nagios.local  went down at                 12-01-2017 01:01:57pm
+centos1.nagios.local returned to normal at        12-01-2017 01:01:57pm
+mysql1.nagios.local  returned to normal at        12-01-2017 01:01:58pm
+centos2.nagios.local returned to normal at        12-01-2017 01:01:58pm
+mysql2.nagios.local  returned to normal at        12-01-2017 01:01:58pm
+fedora1.nagios.local returned to normal at        12-01-2017 01:01:58pm
+mysql3.nagios.local  returned to normal at        12-01-2017 01:01:58pm
+linux-snmp1.nagios.local returned to normal at        12-01-2017 01:01:58pm
+centos1.nagios.local returned to normal at        12-01-2017 01:01:58pm
+rhel1.nagios.local   returned to normal at        12-01-2017 01:01:58pm
+centos2.nagios.local returned to normal at        12-01-2017 01:01:58pm
+windowserver1.nagios.local went down at                 12-01-2017 01:01:58pm
+fedora1.nagios.local returned to normal at        12-01-2017 01:01:59pm
+windowserver2.nagios.local went down at                 12-01-2017 01:01:59pm
+linux-snmp1.nagios.local returned to normal at        12-01-2017 01:01:59pm
+windowserver3.nagios.local went down at                 12-01-2017 01:01:59pm
+rhel1.nagios.local   returned to normal at        12-01-2017 01:01:59pm
+windowserver1.nagios.local went down at                 12-01-2017 01:01:59pm
+Firewall             returned to normal at        12-01-2017 01:01:59pm
+windowserver2.nagios.local went down at                 12-01-2017 01:01:59pm
+NOAA                 returned to normal at        12-01-2017 01:01:59pm
+windowserver3.nagios.local went down at                 12-01-2017 01:01:59pm
+www.acme.com         returned to normal at        12-01-2017 01:02:00pm
+Firewall             returned to normal at        12-01-2017 01:02:00pm
+www.cnn.com          returned to normal at        12-01-2017 01:02:00pm
+NOAA                 returned to normal at        12-01-2017 01:02:00pm
+www.nagios.com       returned to normal at        12-01-2017 01:02:00pm
+www.acme.com         returned to normal at        12-01-2017 01:02:00pm
+www.nagios.org       returned to normal at        12-01-2017 01:02:00pm
+www.cnn.com          returned to normal at        12-01-2017 01:02:00pm
+www.twitter.com      returned to normal at        12-01-2017 01:02:00pm
+www.nagios.com       returned to normal at        12-01-2017 01:02:00pm
+www.nagios.org       returned to normal at        12-01-2017 01:02:01pm
+www.twitter.com      returned to normal at        12-01-2017 01:02:01pm
